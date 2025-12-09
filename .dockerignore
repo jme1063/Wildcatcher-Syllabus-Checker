@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+.cache/
+.env
+.git/
+testing/
+uploads/
+Spring2025-Team-Marvel-main.zip
+*.pdf
+*.docx
+
