@@ -4,6 +4,8 @@
 
 The **Syllabus Field Detector** is a web application that automatically analyzes academic syllabi to extract and validate 19 different course information fields. Built for university administrators, department chairs, and academic compliance teams, the system helps ensure syllabi meet institutional standards and accreditation requirements.
 
+This project was created during the Fall 2025 Interhsip at UNHM, and has been copied over here for archival purposes.
+
 **Who It Serves:**
 - **Academic Departments** — Verify syllabus compliance with accreditation standards (e.g., presence of Student Learning Outcomes)
 - **Instructors** — Quickly check if their syllabi contain all required information
